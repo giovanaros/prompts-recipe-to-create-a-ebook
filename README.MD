@@ -12,12 +12,12 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/th.png"
     width="400"  
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Python Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
