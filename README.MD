@@ -62,7 +62,7 @@ Midjourney：
 
 ## 🛠️ Problemas na construção
 
-Não consegui criar a imagem, o MidJourney, só aceita se for pago.
+Não consegui criar a imagem, o Midjourney, só aceita se for pago.
 
 ## 👨‍💻 Expert
 
