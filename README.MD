@@ -71,7 +71,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/giovanaros">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/giovana-ang%C3%A9lica-ros-miola-26307424/">LinkedIn</a>
+    <a href="www.linkedin.com/in/giovana-angelica-ros-miola-26307424/">LinkedIn</a>
 &nbsp;</p>
 </p>
 <br/><br/>
